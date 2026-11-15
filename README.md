@@ -22,9 +22,9 @@ An automated IoT water management system built using **ESP8266 NodeMCU**, **Ardu
 5. Once the tank reaches full capacity, the Arduino cuts power to the relay to turn the pump **OFF**, preventing water wastage and overflow.
 
 ## Repository Structure
-* `NodeMCU_Blynk_Monitor.ino` – Code for ultrasonic sensing and Blynk cloud integration *(upload your file here)*
-* `Arduino_Pump_Control.ino` – Code for M2M reception and relay pump automation *(upload your file here)*
-* `circuit_diagram.png` – Hardware wiring schematic *(optional)*
+* `NodeMCU_Blynk_Monitor.ino` – Code for ultrasonic sensing and Blynk cloud integration
+* `Arduino_Pump_Control.ino` – Code for M2M reception and relay pump automation
+* `circuit_diagram.png` – Hardware wiring schematic
 
 ## Author
 **Trusha Tanna**  
