@@ -24,7 +24,14 @@ An automated IoT water management system built using **ESP8266 NodeMCU**, **Ardu
 ## Repository Structure
 * `NodeMCU_Blynk_Monitor.ino` – Code for ultrasonic sensing and Blynk cloud integration
 * `Arduino_Pump_Control.ino` – Code for M2M reception and relay pump automation
-* `circuit_diagram.png` – Hardware wiring schematic
+* `circuit_photo1.jpg` – Hardware wiring and sensor connections
+* `circuit_photo2.jpg` – Complete prototype setup
+
+## Hardware Prototype
+![Hardware Wiring](circuit_photo1.jpg)
+
+![Complete Prototype Setup](circuit_photo2.jpg)
+
 
 ## Author
 **Trusha Tanna**  
