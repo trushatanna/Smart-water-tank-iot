@@ -22,19 +22,25 @@ An automated IoT water management system built using **ESP8266 NodeMCU**, **Ardu
 5. Once the tank reaches full capacity, the Arduino cuts power to the relay to turn the pump **OFF**, preventing water wastage and overflow.
 
 ## Repository Structure
-* [NodeMCU_Blynk_Monitor.ino](/NodeMCU_Blynk_Monitor.ino) – Code for ultrasonic sensing and Blynk cloud integration
-* [Arduino_Pump_Control.ino](/Arduino_Pump_Control.ino) – Code for M2M reception and relay pump automation
-* `circuit_photo1.jpg` – Hardware wiring and sensor connections
-* `circuit_photo2.jpg` – Complete prototype setup
+* [NodeMCU_Blynk_Monitor.ino](./NodeMCU_Blynk_Monitor.ino) – Code for ultrasonic sensing and Blynk cloud integration
+* [Arduino_Pump_Control.ino](./Arduino_Pump_Control.ino) – Code for M2M reception and relay pump automation
+* [circuit_photo1.jpg](./circuit_photo1.jpg) – Hardware wiring and sensor connections
+* [circuit_photo2.jpg](./circuit_photo2.jpg) – Complete prototype setup
+* [blynk_dashboard.jpg](./blynk_dashboard.jpg) – Live Blynk IoT water-level monitoring dashboard
 
-## Hardware Prototype
-![Hardware Wiring](circuit_photo1.jpg)
+## Hardware Prototype & Dashboard Preview
 
-![Complete Prototype Setup](circuit_photo2.jpg)
+### 1. Hardware Wiring & Sensor Connections
+![Hardware Wiring](./circuit_photo1.jpg)
 
+### 2. Complete Prototype Setup
+![Complete Prototype Setup](./circuit_photo2.jpg)
+
+### 3. Live Blynk IoT Dashboard
+![Live Blynk IoT Dashboard](./blynk_dashboard.jpg)
 
 ## Author
 **Trusha Tanna**  
 B.E. in Electronics and Communication Engineering | Government Engineering College, Bhavnagar  
-* **Portfolio:** [View Live Portfolio](https://github.io)
+* **Portfolio:** [View Live Portfolio](https://trushatanna.github.io)
 * **Email:** trushatanna0208@gmail.com
